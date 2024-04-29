@@ -1,0 +1,11 @@
+{
+  "name": "free-sound-api",
+  "version": "1.0.0",
+  "description": "query the free sound api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conall O Maolain",
+  "license": "ISC"
+}
